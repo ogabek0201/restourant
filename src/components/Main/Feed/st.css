@@ -1,0 +1,35 @@
+.blocks {
+  width: 539px;
+  height: 350px;
+  background: #ffffff;
+  border-radius: 100px 30px 100px 30px;
+  position: relative;
+  padding: 40px 100px;
+  margin: 0 auto;
+}
+
+.blocks .c-img {
+  position: absolute;
+  top: -60px;
+  left: 40%;
+}
+
+.blocks .con {
+  margin: 57px 0 0;
+  text-align: center;
+}
+
+.blocks .con .des {
+  color: #5c6574;
+}
+
+.blocks .con h4 {
+  font-weight: 700;
+  font-size: 16px;
+  color: #101a24;
+  margin: 16px 0 0;
+}
+
+.blocks .con .job{
+    color: #5C6574;
+}

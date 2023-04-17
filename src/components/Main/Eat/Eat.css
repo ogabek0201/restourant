@@ -1,0 +1,31 @@
+.block {
+  background: #ffffff;
+  border-radius: 20px 0 20px 0;
+  width: 265px;
+  height: 309px;
+  position: relative;
+}
+
+.block .b-img {
+  position: absolute;
+  top: -100px;
+  left: 10%;
+}
+
+.block .col {
+  padding: 50px 20px;
+  margin: 100px 0 0;
+  text-align: center;
+}
+
+.block .col h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  color: #101a24;
+  margin-bottom: 21px;
+}
+
+.block .col p {
+  color: #5c6574;
+}
